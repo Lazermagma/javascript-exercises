@@ -1,4 +1,8 @@
-const palindromes = function () {
+const palindromes = function (str) {
+
+    let newStr = '';
+
+    
 
 };
 
